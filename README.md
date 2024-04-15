@@ -1,6 +1,6 @@
 ### **Sobre mim**
 
-Olá, sou Júlio Arroio Silva, temho 17 anos e atualmente sou bacharelando em Sistemas de informações na Universidade de São Paulo **(USP)**
+Olá, sou Júlio Arroio Silva, tenho 17 anos e atualmente sou bacharelando em Sistema de informação na Universidade de São Paulo **(USP)**
 
 Caso você queira acessar minhas redes sociais  
 📷[Instagram](https://instagram.com/julioarroios/)
