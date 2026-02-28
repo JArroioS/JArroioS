@@ -1,8 +1,8 @@
 ### **Sobre mim**
 
-Olá, sou Júlio Arroio Silva, tenho 18 anos e atualmente sou bacharelando em Sistema de informação na Universidade de São Paulo **(USP)**
+Olá, sou Júlio Arroio Silva, tenho 19 anos e atualmente sou bacharelando em Sistema de informação na Universidade de São Paulo **(USP)**
 
-Possuo conhecimentos em HTNL5, CSS3, Godot e linguagem C
+Possuo conhecimentos em HTML5, CSS3, Godot e linguagens C e Java
 
 Caso você queira acessar minhas redes sociais  
 📷[Instagram](https://instagram.com/julioarroios/)
